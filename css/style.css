@@ -1,0 +1,32 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-size: 17px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    margin-bottom: 50px;
+    line-height: 0.7;
+}
+
+h2 {
+    margin-bottom: 50px;
+    font-style: italic;
+}
+
+.info {
+    margin-top: 80px;
+}
+
+.info p,
+h4 {
+    display: inline-block;
+    margin: .5em auto;
+}
