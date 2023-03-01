@@ -30,3 +30,6 @@ h4 {
     display: inline-block;
     margin: .5em auto;
 }
+div:last-of-type {
+    font-size: 50px;
+}
